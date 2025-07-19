@@ -28,7 +28,7 @@ The project is divided into two main parts:
 ### Prerequisites
 - Node.js (v16 or higher)
 - MongoDB
-- A `.env` file with the required API keys and configurations.
+
 
 ### Steps
 
@@ -96,7 +96,7 @@ The project is divided into two main parts:
 - Express
 - MongoDB
 - Google Generative AI
-- dotenv
+
 
 ## Contributing
 
